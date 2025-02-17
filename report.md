@@ -24,3 +24,6 @@ The repository contains the following files:
 - Committed the initial set of files with the message:  
   ```plaintext
   feat: Initial commit with student files
+
+## Next Commit Message  
+- made new branch
